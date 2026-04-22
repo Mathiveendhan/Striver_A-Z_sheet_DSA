@@ -1,0 +1,11 @@
+type variatiosns in two pointers
+
+1)constant window
+
+2)longest subarray / substring using condition like sum<=2  (<=)
+
+3)longest / count of subarray or substring using condition like sum=k (=)  ,where k is a value like k=2,sum is a variable that i use inside the code
+
+result=call(sum<=k)-call(sum<=k-1)
+
+4)minimum / shortest  subarray or substring
