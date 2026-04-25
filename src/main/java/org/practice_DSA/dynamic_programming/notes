@@ -1,0 +1,38 @@
+Study Flow (Important)
+
+DP 1D → Subsequences → Strings → Grid → LIS → Stocks → Partition → Rectangles
+
+Pattern	       Video_Range
+1D DP	         2–6
+Grid DP	         7–13
+Subsequences	 14–24
+Strings	         25–34
+Stocks	         35–40
+LIS	             41–47
+Partition DP	 48–54
+Rectangles	     55–56
+
+
+DP 1D
+2, 3, 4, 5
+
+DP on Subsequences
+14, 15, 17, 19, 20, 22
+
+DP on Strings
+25, 26, 27, 28, 29, 33
+
+DP on Grid
+8, 9, 10, 11, 12
+
+LIS (Longest Increasing Subsequence)
+41, 42, 44, 45
+
+DP on Stocks
+35, 36, 37, 39, 40
+
+Partition DP
+48, 51, 52, 53, 54
+
+DP on Rectangles
+55, 56
