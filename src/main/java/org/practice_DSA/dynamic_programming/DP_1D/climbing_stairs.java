@@ -1,4 +1,4 @@
-package org.practice_DSA.dynamic_programming;
+package org.practice_DSA.dynamic_programming.DP_1D;
 
 import java.util.HashMap;
 
