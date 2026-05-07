@@ -1,4 +1,4 @@
-package org.practice_DSA.dynamic_programming.DP_sequences;
+package org.practice_DSA.dynamic_programming.DP_LIS;
 import java.util.*;
 
 public class longest_increasing_subsequence {
