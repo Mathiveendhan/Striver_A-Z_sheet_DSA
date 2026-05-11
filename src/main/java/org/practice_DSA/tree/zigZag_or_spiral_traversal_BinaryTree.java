@@ -1,19 +1,19 @@
 package org.practice_DSA.tree;
 import java.util.*;
 
-class Node{
-    int data;
-    Node left;
-    Node right;
-    public Node(int value){
-        this.data=value;
-        this.left=null;
-        this.right=null;
-    }
-}
 
 public class zigZag_or_spiral_traversal_BinaryTree {
 
+    static class Node{
+        int data;
+        Node left;
+        Node right;
+        public Node(int value){
+            this.data=value;
+            this.left=null;
+            this.right=null;
+        }
+    }
     public static ArrayList<Integer> reverse(ArrayList<Integer> arr){
         int i=0,j=arr.size()-1;
         while(i<j){
