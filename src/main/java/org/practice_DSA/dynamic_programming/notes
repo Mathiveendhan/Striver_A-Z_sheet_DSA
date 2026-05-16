@@ -36,3 +36,75 @@ Partition DP
 
 DP on Rectangles
 55, 56
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Major DP Patterns:
+
+1D DP
+Fibonacci
+Climbing Stairs
+Frog Jump
+
+2D / Grid DP
+Unique Paths
+Minimum Path Sum
+
+DP on Subsequences
+Knapsack
+Subset Sum
+Coin Change
+
+DP on Strings
+LCS
+Edit Distance
+Wildcard Matching
+
+DP on Stocks
+Buy and Sell Stock series
+
+LIS Pattern
+Longest Increasing Subsequence
+Bitonic Sequence
+
+Partition DP
+Matrix Chain Multiplication
+Burst Balloons
+
+DP on Trees
+House Robber III
+Diameter of Tree
+
+DP on Graphs
+Longest Path in DAG
+Path Counting
+
+Bitmask DP
+Travelling Salesman Problem
+
+Digit DP (advanced)
+Count numbers with conditions
+
+Interval DP
+Often overlaps with Partition DP
+
+State Machine DP
+Transaction/state transition problems
+
+Probability DP
+Probability-based transitions
+
+Game DP / Minimax DP
+Stone Game
+Optimal play problems
