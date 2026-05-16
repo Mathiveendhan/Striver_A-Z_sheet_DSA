@@ -1,0 +1,107 @@
+1. Introduction & Basics
+
+G-1. Introduction to Graph | Types | Different Conventions Used
+G-2. Graph Representation in C++
+G-3. Graph Representation in Java
+
+2. Graph Traversals
+
+G-4. What are Connected Components?
+G-5. Breadth-First Search (BFS)
+G-6. Depth-First Search (DFS)
+
+3. Connected Components / Flood Fill Problems
+
+G-7. Number of Provinces (Connected Components)
+G-8. Number of Islands (Connected Components in Matrix)
+G-9. Flood Fill Algorithm
+G-16. Number of Distinct Islands
+
+4. Multi-source BFS & Distance Problems
+
+G-10. Rotten Oranges
+G-13. Distance of nearest cell having 1 (0/1 Matrix)
+G-15. Number of Enclaves
+G-36. Shortest Distance in a Binary Maze
+
+5. Cycle Detection
+
+Undirected Graph:
+G-11. Detect Cycle using BFS
+G-12. Detect Cycle using DFS
+
+Directed Graph:
+G-19. Detect Cycle using DFS
+G-23. Detect Cycle using Topological Sort / Kahn’s Algorithm
+
+
+6. Bipartite Graph
+
+G-17. Bipartite Graph using BFS
+G-18. Bipartite Graph using DFS
+
+7. Topological Sort & DAG Problems
+
+G-20. Find Eventual Safe States (DFS)
+G-21. Topological Sort (DFS)
+G-22. Topological Sort (Kahn’s Algorithm - BFS)
+G-23. Detect Cycle in Directed Graph using Topological Sort
+G-24. Course Schedule I and II
+G-25. Find Eventual Safe States (BFS)
+G-26. Alien Dictionary
+G-27. Shortest Path in Directed Acyclic Graph (DAG)
+
+8. Shortest Path Algorithms
+
+Unit Weight / Unweighted:
+G-28. Shortest Path in Undirected Graph with Unit Weights
+G-29. Word Ladder - I
+G-30 / G-31. Word Ladder - 2
+
+Dijkstra’s Algorithm:
+G-32. Dijkstra’s (Priority Queue) - Part 1
+G-33. Dijkstra’s (Using Set) - Part 2
+G-34. Dijkstra’s Intuition & Time Complexity
+G-35. Print Shortest Path (Dijkstra’s)
+
+Other Shortest Path:
+G-36. Shortest Distance in Binary Maze
+G-37. Path With Minimum Effort
+G-38. Cheapest Flights Within K Stops
+G-39. Minimum Multiplications to Reach End
+G-40. Number of Ways to Arrive at Destination
+G-41. Bellman Ford Algorithm
+G-42. Floyd Warshall Algorithm
+G-43. Find the City With the Smallest Number of Neighbours at a Threshold Distance
+
+
+9. Minimum Spanning Tree (MST)
+
+G-44. Minimum Spanning Tree - Theory
+G-45. Prim’s Algorithm
+G-47. Kruskal’s Algorithm
+
+10. Disjoint Set Union (DSU / Union-Find)
+
+G-46. Disjoint Set | Union by Rank, Union by Size, Path Compression
+G-48. Number of Provinces (DSU)
+G-49. Number of Operations to Make Network Connected
+G-50. Accounts Merge
+G-51. Number of Islands - II (Online Queries)
+G-52. Making a Large Island
+G-53. Most Stones Removed with Same Row or Column
+
+11. Advanced Graph Algorithms
+
+G-54. Strongly Connected Components - Kosaraju’s Algorithm
+G-55. Bridges in Graph - Tarjan’s Algorithm
+G-56. Articulation Points in Graph
+
+
+Quick Revision Roadmap Suggestion:
+Beginner Level:
+1 → 2 → 5 → 3 → 4
+Intermediate Level:
+6 (Bipartite) → 5 (Cycle) → 7 (Topo Sort) → 8 (Shortest Path - BFS/Dijkstra)
+Advanced Level:
+9 (MST + DSU) → 10 (Advanced: SCC, Bridges, Articulation)
